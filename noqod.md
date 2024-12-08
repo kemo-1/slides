@@ -1,6 +1,3 @@
-### عروض تقديمية من المستقبل
- عبدالحكيم الشنقيطي
---!
 
 
 
@@ -17,5 +14,5 @@
 القسم الثالث
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNzEzNDYwXX0=
+eyJoaXN0b3J5IjpbMjQ3NDgyMjgzXX0=
 -->
