@@ -4,16 +4,16 @@
 
 
 
-الجزئية رقم 1.1
+القسم ارقم 1.1
 
 --!
-الجزئية رقم 1.2
+الجزئية رقم 2.1
 
 ---
-الجزئية رقم 1.3
+القسم رقم 2 
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mzk5NDY5NF19
+eyJoaXN0b3J5IjpbLTIxMzA1MDExMjddfQ==
 -->
