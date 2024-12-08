@@ -4,7 +4,16 @@
 
 
 
+السلايد رقم 1.1
+
+--!
+السلايد رقم 1.2
+
+---
+السلايد 
+
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk2MDc1NzFdfQ==
+eyJoaXN0b3J5IjpbLTMyOTEzMjA3Ml19
 -->
