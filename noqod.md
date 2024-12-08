@@ -4,16 +4,16 @@
 
 
 
-السلايد رقم 1.1
+الجزئية رقم 1.1
 
 --!
-السلايد رقم 1.2
+الجزئية رقم 1.2
 
 ---
-السلايد 
+الجزئية رقم 1.3
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTEzMjA3Ml19
+eyJoaXN0b3J5IjpbLTU1Mzk5NDY5NF19
 -->
