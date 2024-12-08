@@ -1,6 +1,4 @@
 
-
-
 القسم الأول : الشريحة الأولى
 --!
 القسم الأول : الشريحة الثاني
@@ -14,5 +12,5 @@
 القسم الثالث
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NDgyMjgzXX0=
+eyJoaXN0b3J5IjpbMTc3OTM4MDIzMV19
 -->
